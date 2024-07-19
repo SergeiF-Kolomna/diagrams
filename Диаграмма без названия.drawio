@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T07:51:18.308Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="n1Al5vkhgY04R7kNFAL3" version="24.7.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-07-19T07:55:39.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="r2VVBfDMJWFX2stAfkS2" version="24.7.1" type="github" pages="4">
   <diagram id="8uZq5eMc_uZSrNq-SUvv" name="Схема прав">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,12 +192,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Копия Схема прав" id="aEiJXpqBIxOOUVq4C6q6">
-    <mxGraphModel dx="1687" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-0" />
         <mxCell id="WDC88hjmU1nZ5gPulEAO-1" parent="WDC88hjmU1nZ5gPulEAO-0" />
         <mxCell id="WDC88hjmU1nZ5gPulEAO-2" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;whiteSpace=wrap;html=1;align=left;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
-          <mxGeometry x="70" y="250" width="540" height="830" as="geometry" />
+          <mxGeometry x="70" y="250" width="540" height="800" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-3" value="&amp;nbsp;В соответствии с ТЗ" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
           <mxGeometry x="590" y="190" width="160" height="70" as="geometry" />
@@ -369,6 +369,25 @@
         <mxCell id="R8j8JHmZhrAgC42NHtha-92" value="&lt;ul style=&quot;margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры (Объекты обращения),&lt;/li&gt;&lt;li&gt;Договоры и платежи,&lt;/li&gt;&lt;li&gt;Инциденты,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Логистика,&amp;nbsp;&lt;/li&gt;&lt;li&gt;НСИ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R8j8JHmZhrAgC42NHtha-89">
           <mxGeometry y="30" width="176" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="R8j8JHmZhrAgC42NHtha-94" value="Отходообразователь" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;" vertex="1" parent="WDC88hjmU1nZ5gPulEAO-24">
+          <mxGeometry x="39.5" y="660" width="100" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="R8j8JHmZhrAgC42NHtha-95" value="Администратор&#xa; отходообразователя" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="R8j8JHmZhrAgC42NHtha-94">
+          <mxGeometry x="20" width="40" height="150" as="geometry">
+            <mxRectangle x="20" width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8j8JHmZhrAgC42NHtha-96" value="&lt;ul style=&quot;margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Договоры и платежи,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Логистика,&amp;nbsp;&lt;/li&gt;&lt;li&gt;НСИ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R8j8JHmZhrAgC42NHtha-95">
+          <mxGeometry y="31" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="R8j8JHmZhrAgC42NHtha-97" value="Отходообразователь" style="swimlane;startSize=30;" vertex="1" collapsed="1" parent="R8j8JHmZhrAgC42NHtha-94">
+          <mxGeometry x="60" width="40" height="150" as="geometry">
+            <mxRectangle x="200" width="180" height="150" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="R8j8JHmZhrAgC42NHtha-99" value="&lt;ul style=&quot;margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Договоры и платежи,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Логистика,&amp;nbsp;&lt;/li&gt;&lt;li&gt;НСИ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="R8j8JHmZhrAgC42NHtha-97">
+          <mxGeometry y="31" width="180" height="70" as="geometry" />
+        </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WDC88hjmU1nZ5gPulEAO-8" source="WDC88hjmU1nZ5gPulEAO-10" target="WDC88hjmU1nZ5gPulEAO-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -401,7 +420,7 @@
           <mxGeometry x="130" y="820" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-13" value="Отходо-&lt;div style=&quot;font-size: 12px;&quot;&gt;образователь&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#FFE6CC;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
-          <mxGeometry x="140" y="1010" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="985" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-14" value="Новый пользователь (Гость)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=11;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
           <mxGeometry x="140" y="1120" width="120" height="40" as="geometry" />
@@ -416,7 +435,7 @@
           <mxGeometry x="320" y="820" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-20" value="&lt;ul style=&quot;text-align: left; text-wrap: nowrap;&quot;&gt;&lt;li&gt;Администратор отходообразователя&lt;/li&gt;&lt;li&gt;Отходообразователь&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=0;fillColor=#FFE6CC;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
-          <mxGeometry x="330" y="1010" width="250" height="40" as="geometry" />
+          <mxGeometry x="330" y="985" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-21" value="В соотв. с п.4.2.1.2 ТЗ" style="rounded=0;whiteSpace=wrap;html=1;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
           <mxGeometry x="369" y="1120" width="141" height="40" as="geometry" />
@@ -429,9 +448,6 @@
             <mxPoint x="760" y="980" as="sourcePoint" />
             <mxPoint x="760" y="980" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="WDC88hjmU1nZ5gPulEAO-29" value="&lt;ul style=&quot;text-align: left; margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Договоры и платежи,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Логистика,&lt;/li&gt;&lt;li&gt;НСИ.&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
-          <mxGeometry x="670.5" y="995" width="179" height="70" as="geometry" />
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-30" value="&lt;ul style=&quot;text-align: left; margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры&lt;/li&gt;&lt;li&gt;Контрагенты&lt;/li&gt;&lt;li&gt;Договоры и платежи&lt;/li&gt;&lt;li&gt;Расчеты с ФЛ&lt;/li&gt;&lt;li&gt;Инциденты&lt;/li&gt;&lt;li&gt;Логистика&lt;/li&gt;&lt;li&gt;Линейный отдел&lt;/li&gt;&lt;li&gt;Терминал диспетчера&lt;/li&gt;&lt;li&gt;НСИ&lt;/li&gt;&lt;li&gt;Отчеты&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WDC88hjmU1nZ5gPulEAO-1" vertex="1">
           <mxGeometry x="670.5" y="1292.5" width="179" height="150" as="geometry" />
@@ -490,8 +506,10 @@
         <mxCell id="WDC88hjmU1nZ5gPulEAO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WDC88hjmU1nZ5gPulEAO-1" source="WDC88hjmU1nZ5gPulEAO-13" target="WDC88hjmU1nZ5gPulEAO-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WDC88hjmU1nZ5gPulEAO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WDC88hjmU1nZ5gPulEAO-1" source="WDC88hjmU1nZ5gPulEAO-20" target="WDC88hjmU1nZ5gPulEAO-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WDC88hjmU1nZ5gPulEAO-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WDC88hjmU1nZ5gPulEAO-1" source="WDC88hjmU1nZ5gPulEAO-20" target="R8j8JHmZhrAgC42NHtha-94" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670.5" y="1030" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WDC88hjmU1nZ5gPulEAO-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WDC88hjmU1nZ5gPulEAO-1" source="WDC88hjmU1nZ5gPulEAO-14" target="WDC88hjmU1nZ5gPulEAO-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
