@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T15:12:21.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="gUI4JnVHfnj6qjNjkxEh" version="24.7.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-22T15:13:23.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="vtiAjBbZnVAe5BUVmHjg" version="24.7.2" type="github" pages="5">
   <diagram name="Схема прав" id="aEiJXpqBIxOOUVq4C6q6">
     <mxGraphModel dx="1593" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1495,7 +1495,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wY5BGO7GEGtmQQrUGOBu" name="Черновик-Страница — 2">
-    <mxGraphModel dx="836" dy="1611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
