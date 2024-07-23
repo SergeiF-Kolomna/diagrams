@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T06:56:34.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="X5-M4CA1qqVgNdD9Id8h" version="24.7.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-07-23T07:00:28.123Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7dZoUyXWm8_B7W1IETuV" version="24.7.1" type="github" pages="6">
   <diagram name="Схема прав" id="Oam9BsCBO7mzbR85Q6x7">
-    <mxGraphModel dx="1509" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3585" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="AswuqJpho33913lp01b7-0" />
         <mxCell id="AswuqJpho33913lp01b7-1" parent="AswuqJpho33913lp01b7-0" />
@@ -255,7 +255,7 @@
         </mxCell>
         <mxCell id="AswuqJpho33913lp01b7-171" value="Сотрудник диспетчерского отдела" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-13">
           <mxGeometry x="380" y="130" width="230" height="30" as="geometry">
-            <mxRectangle x="720" y="-180" width="240" height="110" as="alternateBounds" />
+            <mxRectangle x="380" y="130" width="240" height="110" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AswuqJpho33913lp01b7-172" value="Сотрудник диспетчерского отдела" style="swimlane;startSize=20;html=1;" vertex="1" parent="AswuqJpho33913lp01b7-171">
@@ -407,9 +407,9 @@
         <mxCell id="YazsCWPHh-fjjFyahQKs-83" value="&lt;div style=&quot;text-align: left;&quot;&gt;Доступ на просмотр информации о своих полигонах&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap;&quot;&gt;&lt;b&gt;landfill_operator&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YazsCWPHh-fjjFyahQKs-82">
           <mxGeometry y="20" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YazsCWPHh-fjjFyahQKs-95" value="Администратор отходообразователя" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="AswuqJpho33913lp01b7-13">
-          <mxGeometry x="70" y="1090" width="240" height="80" as="geometry">
-            <mxRectangle x="-255" y="1210" width="230" height="30" as="alternateBounds" />
+        <mxCell id="YazsCWPHh-fjjFyahQKs-95" value="Администратор отходообразователя" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-13">
+          <mxGeometry x="70" y="1090" width="230" height="30" as="geometry">
+            <mxRectangle x="70" y="1090" width="240" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YazsCWPHh-fjjFyahQKs-96" value="Администратор ОО" style="swimlane;startSize=30;html=1;" vertex="1" parent="YazsCWPHh-fjjFyahQKs-95">
@@ -420,9 +420,9 @@
         <mxCell id="YazsCWPHh-fjjFyahQKs-97" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;b&gt;emitter_admin&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="YazsCWPHh-fjjFyahQKs-96">
           <mxGeometry y="30" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YazsCWPHh-fjjFyahQKs-101" value="Отходообразователь" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" parent="AswuqJpho33913lp01b7-13">
-          <mxGeometry x="70" y="1180" width="360" height="80" as="geometry">
-            <mxRectangle x="-255" y="1210" width="230" height="30" as="alternateBounds" />
+        <mxCell id="YazsCWPHh-fjjFyahQKs-101" value="Отходообразователь" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-13">
+          <mxGeometry x="70" y="1180" width="230" height="30" as="geometry">
+            <mxRectangle x="70" y="1180" width="360" height="80" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YazsCWPHh-fjjFyahQKs-102" value="Отходообразователь ЮЛ" style="swimlane;startSize=30;html=1;" vertex="1" parent="YazsCWPHh-fjjFyahQKs-101">
@@ -499,7 +499,7 @@
         <mxCell id="AswuqJpho33913lp01b7-27" value="&lt;ul style=&quot;margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Объекты инфраструктуры,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Договоры и платежи,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Линейный отдел,&amp;nbsp;&lt;/li&gt;&lt;li&gt;Логистика,&amp;nbsp;&lt;/li&gt;&lt;li&gt;НСИ&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AswuqJpho33913lp01b7-26">
           <mxGeometry x="10" y="33" width="175" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="AswuqJpho33913lp01b7-28" value="Сотрудник финансового отдела " style="swimlane;startSize=30;fillColor=#FFCCFF;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-15">
+        <mxCell id="AswuqJpho33913lp01b7-28" value="Сотрудник финансового отдела " style="swimlane;startSize=30;fillColor=#FFFFFF;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-15">
           <mxGeometry x="270" width="40" height="190" as="geometry">
             <mxRectangle x="270" width="200" height="190" as="alternateBounds" />
           </mxGeometry>
@@ -560,7 +560,7 @@
         <mxCell id="AswuqJpho33913lp01b7-42" value="&lt;ul style=&quot;margin-top: 2px; margin-bottom: 2px; padding-left: 12px;&quot;&gt;&lt;li&gt;Задания в маршруте,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Маршрутные листы,&lt;/li&gt;&lt;li&gt;&amp;nbsp;Посещения объектов&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AswuqJpho33913lp01b7-41">
           <mxGeometry x="10" y="30" width="150" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="AswuqJpho33913lp01b7-43" value="Гость" style="swimlane;startSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-34">
+        <mxCell id="AswuqJpho33913lp01b7-43" value="Гость" style="swimlane;startSize=20;fillColor=#FFFFFF;strokeColor=#d6b656;" vertex="1" collapsed="1" parent="AswuqJpho33913lp01b7-34">
           <mxGeometry x="180" width="40" height="220" as="geometry">
             <mxRectangle x="180" width="170" height="230" as="alternateBounds" />
           </mxGeometry>
@@ -718,8 +718,7 @@
             <Array as="points">
               <mxPoint x="1626" y="60" />
               <mxPoint x="1790" y="60" />
-              <mxPoint x="1790" y="415" />
-              <mxPoint x="1875" y="415" />
+              <mxPoint x="1790" y="429" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1004,9 +1003,12 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="670" y="1445" />
-              <mxPoint x="670" y="1462" />
+              <mxPoint x="670" y="1431" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YazsCWPHh-fjjFyahQKs-108" value="В соответствии с ТЗ" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="AswuqJpho33913lp01b7-1">
+          <mxGeometry x="500" y="150" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
